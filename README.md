@@ -25,4 +25,4 @@
 
 ## Find me
 
-[Portfolio](https://bereket-codes.github.io/) · [LinkedIn](https://www.linkedin.com/in/bereket-tadesse-17bbb8415) · [Telegram](https://t.me/Bk_tad) · [Email](mailto:tadessebereket79@gmail.com)
+[Portfolio](https://bereket-codes.github.io/) · [LinkedIn](https://www.linkedin.com/in/bereket-tadesse-17bbb8415) · [Telegram](https://t.me/Bk_tad) · [Email](mailto:tadessebereket779@gmail.com)
