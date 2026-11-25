@@ -1,10 +1,10 @@
 # Bereket Tadesse
 
-**Full stack developer in Addis Ababa.** React and Next.js on the front end, Node and Express on the server, SQL for the data underneath. I build products that hold up outside the demo.
+**Junior full stack developer in Addis Ababa.** React and Next.js on the front end, Node and Express on the server, SQL for the data underneath. Early in my career, and building things that hold up outside the demo.
 
 - 🧩 **Front end:** React 19, Next.js, vanilla JavaScript, HTML5, CSS3, Bootstrap
 - ⚙️ **Back end:** Node.js, Express, SQL, REST APIs
-- 🛡️ **How I build:** input validated before it is trusted, secrets kept on the server, loading/empty/error states handled, code kept small and readable
+- 🛡️ **How I build:** input checked before it is trusted, secrets kept on the server, code kept small and readable
 - 🎓 B.Sc. Computer Science, Unity University — Class of 2026
 - 📍 Addis Ababa, Ethiopia · open to freelance work, early-stage teams and full-time roles
 
