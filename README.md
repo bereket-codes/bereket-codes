@@ -1,10 +1,10 @@
 # Bereket Tadesse
 
-**Frontend developer in Addis Ababa.** I build React and vanilla-JavaScript interfaces that hold up outside the demo — accessible, responsive, and checked on a real phone before I call it done.
+**Frontend developer in Addis Ababa, going full-stack.** I build React and vanilla-JavaScript interfaces that hold up outside the demo.
 
-- 🔭 **Next up:** rebuilding FlowGuard as a full-stack app (Next.js + TypeScript + PostgreSQL), then converting Tactical Godfather to TypeScript.
+- 🔨 **Next up:** taking HabeshaCart from storefront to a real full-stack shop — backend, database and orders that actually get saved.
 - 🎓 B.Sc. Computer Science, Unity University — Class of 2026
-- 📍 Addis Ababa, Ethiopia · open to freelance work and full-time frontend roles
+- 📍 Addis Ababa, Ethiopia · open to freelance work and full-time roles
 
 ## Featured work
 
