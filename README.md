@@ -1,10 +1,12 @@
 # Bereket Tadesse
 
-**Frontend developer in Addis Ababa, going full-stack.** I build React and vanilla-JavaScript interfaces that hold up outside the demo.
+**Full stack developer in Addis Ababa.** React and Next.js on the front end, Node and Express on the server, SQL for the data underneath. I build products that hold up outside the demo.
 
-- 🔨 **Next up:** taking HabeshaCart from storefront to a real full-stack shop — backend, database and orders that actually get saved.
+- 🧩 **Front end:** React 19, Next.js, vanilla JavaScript, HTML5, CSS3, Bootstrap
+- ⚙️ **Back end:** Node.js, Express, SQL, REST APIs
+- 🛡️ **How I build:** input validated before it is trusted, secrets kept on the server, loading/empty/error states handled, code kept small and readable
 - 🎓 B.Sc. Computer Science, Unity University — Class of 2026
-- 📍 Addis Ababa, Ethiopia · open to freelance work and full-time roles
+- 📍 Addis Ababa, Ethiopia · open to freelance work, early-stage teams and full-time roles
 
 ## Featured work
 
@@ -16,8 +18,12 @@
 
 ## Stack
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
